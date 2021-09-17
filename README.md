@@ -1,0 +1,2 @@
+# Get-Status-Ping-IP-Hardware-Reports-Powershell-to-excel
+This is a set of expansions I've written to the Tech Wizards, https://github.com/VikasSukhija , get-ping-status scripts. (Sorry bruh, can't find the old technet, or current Git link.) It has the same basic report, as well as ones I have written that get a large amount of remote machine information. One small issue, the report opens simultaneously, but for some reason wont save. You can save it after it finishes running, but it doesn't do it "automagically."
